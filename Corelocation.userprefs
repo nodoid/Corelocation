@@ -1,0 +1,20 @@
+﻿<Properties StartupConfiguration="{4FAA22D0-5232-4028-8058-FD5A11180840}|Default">
+  <MonoDevelop.Ide.ItemProperties.Corelocation PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.862E782F-CEFA-4078-BC42-52CABEADCCDE" automaticSigning="True">
+    <MonoDevelop.MacDev.AppleDevelopmentTeam DeveloperId="GQEJEHTDM4" TeamId="3UH7BE38T3" />
+  </MonoDevelop.Ide.ItemProperties.Corelocation>
+  <MonoDevelop.Ide.Workbench ActiveDocument="Corelocation/CorelocationViewController.cs">
+    <Files>
+      <File FileName="Corelocation/AppDelegate.cs" Line="26" Column="63" />
+      <File FileName="Corelocation/CorelocationViewController.cs" Line="78" Column="28" />
+      <File FileName="Corelocation/CorelocationViewController.designer.cs" Line="20" Column="13" />
+      <File FileName="Corelocation/Main.cs" Line="12" Column="20" />
+      <File FileName="Corelocation/Info.plist" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|iPhoneSimulator" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>

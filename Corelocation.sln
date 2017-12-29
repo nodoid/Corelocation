@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Corelocation", "Corelocation\Corelocation.csproj", "{4FAA22D0-5232-4028-8058-FD5A11180840}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|iPhoneSimulator = Debug|iPhoneSimulator
+		Release|iPhoneSimulator = Release|iPhoneSimulator
+		Debug|iPhone = Debug|iPhone
+		Release|iPhone = Release|iPhone
+		Ad-Hoc|iPhone = Ad-Hoc|iPhone
+		AppStore|iPhone = AppStore|iPhone
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4FAA22D0-5232-4028-8058-FD5A11180840}.Ad-Hoc|iPhone.ActiveCfg = Ad-Hoc|iPhone
+		{4FAA22D0-5232-4028-8058-FD5A11180840}.Ad-Hoc|iPhone.Build.0 = Ad-Hoc|iPhone
+		{4FAA22D0-5232-4028-8058-FD5A11180840}.AppStore|iPhone.ActiveCfg = AppStore|iPhone
+		{4FAA22D0-5232-4028-8058-FD5A11180840}.AppStore|iPhone.Build.0 = AppStore|iPhone
+		{4FAA22D0-5232-4028-8058-FD5A11180840}.Debug|iPhone.ActiveCfg = Debug|iPhone
+		{4FAA22D0-5232-4028-8058-FD5A11180840}.Debug|iPhone.Build.0 = Debug|iPhone
+		{4FAA22D0-5232-4028-8058-FD5A11180840}.Debug|iPhoneSimulator.ActiveCfg = Debug|iPhoneSimulator
+		{4FAA22D0-5232-4028-8058-FD5A11180840}.Debug|iPhoneSimulator.Build.0 = Debug|iPhoneSimulator
+		{4FAA22D0-5232-4028-8058-FD5A11180840}.Release|iPhone.ActiveCfg = Release|iPhone
+		{4FAA22D0-5232-4028-8058-FD5A11180840}.Release|iPhone.Build.0 = Release|iPhone
+		{4FAA22D0-5232-4028-8058-FD5A11180840}.Release|iPhoneSimulator.ActiveCfg = Release|iPhoneSimulator
+		{4FAA22D0-5232-4028-8058-FD5A11180840}.Release|iPhoneSimulator.Build.0 = Release|iPhoneSimulator
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Corelocation\Corelocation.csproj
+	EndGlobalSection
+EndGlobal
